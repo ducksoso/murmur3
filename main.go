@@ -1,4 +1,4 @@
-package main
+package murmur3
 
 import "fmt"
 
